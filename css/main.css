@@ -1,0 +1,236 @@
+@media only screen and (max-width:1200px){.header-row{width:100% !important;float:left;}
+.slider-contain{width:170px;}
+.font-18{font-size:16px;}
+.font-16{font-size:14px;}
+.slider-contain .content{float:none;}
+.social-icon{margin:0 40px 0 22px;}
+.quotes-slide-banner2, .quotes-slide-banner{width:100%;margin-right:0;}
+.quotes-slide-banner2 img, .quotes-slide-banner img{width:100%;height:auto;}
+}
+@media only screen and (max-width:992px){.banner-menu-section{width:100%;}
+.slide-banner{float:none;text-align:center;}
+.home-band-content{position:relative;left:7%;margin-bottom:25px;}
+.slider-contain{width:210px;}
+.container-4{left:-45% !important;}
+.container-4 .col1-main{width:20%;}
+.container-4 .col3-main{margin-top:15px !important;margin-right:40px;}
+.dn-arr{display:none;}
+.testimonial-sec{float:none;width:296px;margin:0 auto 40px;}
+.tabYellow.CCQuote .nav-tabs > li > a{font-size:15px;padding:9px 6px;}
+.amount{height:90px;width:90px;}
+.amount h3{font-size:18px;}
+.bankFeature h6, .CCFeature h6{font-size:14px;margin-bottom:13px;}
+.bankFeature ul li, .CCFeature ul li{font-size:18px;}
+}
+@media only screen and (max-width:768px){.insuranceProductsWraper{padding-top:26px;padding-bottom:6px;}
+.insuranceProductsWraper h2{margin-bottom:13px;}
+.InsuranceCTA{margin-bottom:13px;}
+section.content-blog .asside-wrapp .banner-wrapp img{width:100%;height:auto;}
+.header-sec .burger{display:block;float:right;cursor:pointer;z-index:9999;position:relative;}
+.foot-column5 img{padding:10px;}
+.slider-contain{width:150px;}
+.home-band-content{position:relative;left:7%;}
+.quotes-slide{margin:0 a auto;float:none;}
+.quotes-slide-banner2,
+.quotes-slide-banner{margin:0 auto;float:none;text-align:center;padding:0 0 25px !important;}
+.videos-sec{float:none;}
+.videos-sec iframe{width:90%;}
+.foot-sec > div > div > div{margin:5px 0 20px 0;}
+.container-4 .col3-main{margin-top:0;}
+.nav > li > a.sel{background:none;color:#000000;}
+.quoteForm{padding:15px 0;margin-top:9px;}
+.quoteContent h3{text-align:center;margin-bottom:0;margin-top:10px;}
+.coImgContainer{margin-bottom:13px;}
+.insuranceSummery h4,
+.insuranceSummery p{text-align:center;}
+.insuranceSummery p{margin-bottom:13px;}
+}
+@media only screen and (max-width:480px){.mobile .user a{margin:0;font-size:18px;padding:0 7px 0 15px;}
+.mobile .social-icon a{padding:0;}
+.mobile .social-icon{margin-right:50px;}
+.mobile .menu-sec ul.nav li > a{font-size:24px;margin-left:0;padding-left:28px;}
+.post-footer .tags-wrapp{width:200px;font-size:12px;}
+.milestone-content{word-break:normal;height:auto;}
+.testimonial-sec{width:237px;margin:0 0 20px 6px;height:280px;}
+.testimonial-sec > div > div > div{width:200px !important;}
+.mobile .menu-sec ul.nav .container-4 .submenu-ctrl{width:85%;}
+.mobile .container-sub .submenu-ctrl{width:65%;}
+.slide-banner img{width:100%;height:auto;}
+.videos-sec iframe{width:100%;}
+}
+@media only screen and (max-width:320px){}
+@media only screen and (min-width:320px){}
+@media only screen and (min-width:480px){}
+@media only screen and (min-width:768px){}
+@media only screen and (min-width:992px){}
+@media only screen and (min-width:1200px){}
+tr td{vertical-align:top;}
+.reset-table tr td{width:auto;}
+@media (max-width:1199px){}
+@media (max-width:991px){.bankProducts img{float:none;display:block;margin:0 auto 13px;}
+.testimonialSection{padding:15px;}
+.testimonialSlide p{font-size:14px;}
+.testimonialSlide{min-height:170px;}
+.bankProductsCategory{padding:155px 0;}
+.btn-yellow-lg{font-size:18px;}
+.buttonArea .viewDetails{padding:7px 29px;}
+.CCBox h5 a{font-size:17px;}
+.CCSelectTab{position:relative;left:0;display:inline-block;}
+.CCSelectTab li{float:left;margin:5px;width:48%;}
+.CCSelectTab li a{text-align:center;}
+.CCQuestion .nav-tabs{margin-bottom:33px;border:none;}
+.CCQuestion .nav-tabs > li{width:100%;}
+.CCQuestion .nav-tabs > li.active a:hover, .CCQuestion .nav-tabs > li.active a{border-bottom-color:#ead43f;border-radius:15px;-moz-border-radius:15px;-webkit-border-radius:15px;text-align:center;}
+.CCQuestion .tab-content.withBorder{border-top:3px solid #ead43f;border-radius:10px;-moz-border-radius:10px;-webkit-border-radius:10px;}
+.userNav ul li a{padding:10px 7px;}
+.plansHeading{min-height:103px;}
+.btn-yellow, .btn-orange{font-size:12px;padding:4px 9px;}
+.loginRegisterModal .modal-body{padding:30px;}
+.loginRegisterModal .form-group a.forgotPass{padding-left:9px;font-size:12px;}
+.inlineBox{display:block;}
+}
+@media (max-width:767px){.logo{padding-top:5px;}
+.logo img{display:block;margin:0 auto;}
+.headerSocialMedia{text-align:center;}
+.header h5{text-align:center;}
+.feedBckModal .form-group, .callBckModal .form-group, .contactBox .form-group{margin-bottom:0;}
+.feedBckModal .form-control, .callBckModal .form-control, .callBckModal .form-group .form-control, .feedBckModal .captchaBox, .contactBox .form-control{margin-bottom:13px;}
+.navigation .navbar-collapse{padding-left:10px;padding-right:10px;}
+.navigation .navbar{min-height:auto;}
+.navigation .navbar-toggle{margin-top:4px;margin-bottom:4px;}
+.navbar-brand{height:auto;padding:10px;color:#424242;}
+.navbar-toggle{border:1px solid #fff;}
+.navbar-toggle.active{min-height:34px;}
+.navbar-toggle .icon-bar{background-color:#fff;}
+.navbar-toggle.active .skew-clock{transform:rotate(40deg);}
+.navbar-toggle.active .hide-closed{opacity:0 !important;}
+.navbar-toggle.active .skew-counter{transform:rotate(-40deg);transition:all 0.20s linear 0s;}
+.navbar-toggle.active .icon-bar{background-color:#fff;margin-bottom:-6px;transition:all 0.20s linear 0s;}
+.navigation .yamm-content h5{color:#f55930;}
+.navigation .dropdown-menu li a, .navigation .yamm-content ul li a{color:#424242;}
+.navigation .navbar-nav > li > a{border-bottom:1px solid #f3d527;background-color:#dabf23;}
+.navigation .dropdown-menu li a:hover, .navigation .yamm-content ul li a:hover, .navigation .dropdown-menu li a:focus, .navigation .yamm-content ul li a:focus{text-decoration:underline;}
+.navigation .yamm-content ul li:before{color:#424242;}
+.navigation .yamm-content .menuCol{border:none;min-height:auto;}
+.navigation .btnSmallYellow{background-color:#424242;color:#fff;}
+.navigation .btnSmallYellow:hover{background-color:#000;}
+.navigation .dropdown-menu .navLogin a.text-info, .navigation .dropdown-menu .navLogin a.text-info:hover{color:#f55930;}
+.navigation .navLogin h6{color:#424242;}
+.componentWraper h2, .componentWraper h2 a{font-size:22px;text-align:center;}
+.bankProducts{padding:26px 0;}
+.componentWraper br{display:none;}
+.InsTitle{margin-top:13px;margin-bottom:13px;}
+.InsTitle br{display:block;}
+.InsTitle img{display:none;}
+.bankProductsWraper{padding-top:36px;}
+.bankProducts h6 a, .bankProducts h6 a span{float:none;text-align:center;}
+.testimonialSection{margin-bottom:43px;}
+.patternBg{padding:26px 0;}
+.blockArea{margin-bottom:23px;}
+.bankProductsCategory{padding:36px 0;}
+.bankProductsCategory img{margin-bottom:16px;}
+.bankAccountOption{padding-top:26px;padding-bottom:26px;}
+.bankAccountOption h2{margin-bottom:23px;}
+.bankAccountType{margin-bottom:23px;}
+.tabYellow .tab-content .tab-pane{padding:30px 20px 0}
+.componentWraper .tabYellow br,
+.insuranceSummery br{display:block;}
+.tabYellow .tabRow{margin-bottom:23px;}
+.tabYellow .tabRow h5{margin-bottom:13px;}
+.buttonArea .btn-yellow-lg{display:inline-block;float:none;margin:0 auto;}
+.buttonArea{padding-top:0;}
+.tabYellow .nav-justified > li > a, .tabYellow.CCQuote .nav-tabs > li > a{border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;border-color:#ead43f;font-size:15px;padding:5px;}
+.tabYellow .nav-justified > .active > a, .tabYellow .nav-justified > .active > a:hover, .tabYellow .nav-justified > .active > a:focus{background-color:#ead43f;border-bottom-color:#ead43f;}
+.tabYellow .tab-content.withBorder{border:3px solid #ead43f;border-radius:10px;-webkit-border-radius:10px;-moz-border-radius:10px;margin-top:13px;}
+.ourPartner{padding:23px 0;}
+.singleBankQuote, .singleCCQuote{text-align:center;}
+.bankFeature .col-sm-4, .CCFeature .col-sm-4, .bankBenefits .col-sm-4{margin-bottom:23px;}
+.bankFeature h6, .CCFeature h6{margin-bottom:13px;}
+.bankApplication .btn-submit{float:none;display:block;margin:0 auto;}
+.buttonArea .viewDetails{display:inline-block;float:none;text-align:center;}
+.CCBox h5 a{font-size:16px;}
+.CardPreview img{margin-bottom:13px;}
+.confirmationBox{margin:23px 0;padding:23px;}
+.confirmationBox h3, .confirmationBox p{margin-bottom:13px;}
+.confirmationBox ul{text-align:center;}
+.confirmationBox ul li{margin-top:0;}
+.userInfo{padding-top:13px;text-align:center;}
+.userNav .navbar-toggle{margin-top:0;margin-bottom:0;padding:0 10px;}
+.userNav .navbar-header{font-size:18px;color:#000;padding-top:7px;padding-bottom:7px;text-align:center;}
+.userNav ul{text-align:center;}
+.userNav ul li{display:block;}
+.userNav ul li a{border-bottom:1px solid #f3d527;padding-top:5px;padding-bottom:5px;}
+.userNav ul li.active a, .userNav ul li a:hover{background-color:#353535;color:#fff;text-decoration:none;}
+.table-responsive{border:none;margin-top:15px;margin-bottom:0;}
+.table-responsive hr{display:none;}
+.editProfile h5{display:block;text-align:center;}
+.editProfile .whiteTable > tbody > tr > th, .editProfile .whiteTable > tbody > tr > td{font-size:14px;}
+.btn-save{display:block;margin:0 auto;}
+.pgh-compre{padding:0 0 0 64px;font-size:20px;}
+.pgh-sub{font-size:16px;}
+.componentWraper .pgh-compre br{display:block;}
+.componentWraper .pgh-compre{margin-bottom:9px;}
+.quoteTab{margin-bottom:9px;}
+.quoteTab a{font-size:14px;min-height:62px;line-height:16px;}
+.quoteTab .badge{float:left;font-size:14px;padding:6px 9px;margin-right:3px;margin-top:4px;}
+.selecSummary{padding:10px;margin-bottom:13px;}
+.summary-header .navbar-toggle{border-top:1px solid #CCC;border-bottom:1px solid #CCC;margin-bottom:9px;}
+.selecSummary h6 span{float:none;}
+.plansDataMobile{border:1px solid #939393;padding-top:9px;padding-bottom:9px;margin-bottom:13px;}
+.plansDataMobile br{display:block;}
+h6.policyPrice{color:#f5622c;font-size:14px;margin:0;padding-top:9px;}
+h6.policyPrice span{color:#000;font-size:20px;font-weight:bold;}
+.policyIntro{margin-bottom:9px;}
+.policyDetails{border-top:1px solid #cdcdcd;border-bottom:1px solid #cdcdcd;background-color:#f3f3f3;padding-top:6px;padding-bottom:6px;}
+.policyDetails:last-child{border-top:none;}
+.policyDetails p{color:#504f4f;font-size:14px;line-height:18px;margin-bottom:0;}
+.policyDetails p strong{color:#000000;font-size:15px;line-height:23px;}
+.policyDetails .fa{cursor:pointer;}
+.policyBtnArea{padding-top:9px;}
+.contactBox input[type=submit]{float:none;display:block;margin:0 auto;}
+.contactAddress{text-align:center;}
+.bannerText{padding-top:0px;}
+.footer img{margin-bottom:16px;}
+.footerBlock{padding-bottom:23px;}
+.foot-sec{text-align:center;}
+.planDetailsLeft{border-right:none;}
+.ex-benefits .form-control{margin-bottom:9px;}
+.motor.ex-benefits .panel-heading,
+.health.ex-benefits .panel-heading{background-image:none;padding-left:10px;}
+.insSummeryInner ul{padding-left:17px;}
+.insuranceSummery h5{text-align:center;}
+.btnCtrl{text-align:right;}
+.quoteIntro h4{padding-top:0;font-size:18px;}
+.quoteDetails{padding:15px 0;}
+.quoteDetails h5, .quoteInclude h5{font-size:18px;}
+.quoteFoundHeading{font-size:18px;}
+.quoteTitle{font-size:20px;margin-top:23px;}
+.quoteTabLink > li > a{font-size:18px;padding-top:5px;padding-bottom:8px;}
+.hpw-cta{margin-bottom:23px;}
+.loginRegisterModal .close{right:9px;top:9px;}
+.devider{height:40px;margin:15px 0;}
+.devider::after{height:1px;left:0;top:50%;width:100%;}
+.devider span:before,
+.devider span:after{top:0px !important;width:9px;height:40px;}
+.devider span:before{left:-9px;}
+.devider span:after{left:40px;}
+.partnerAddress{min-height:auto;}
+.inlineBox{display:inline-block;}
+}
+@media (max-width:480px){.partnersTab .nav li{margin:0 7px;}
+.partnersTab .nav li a{font-size:16px;padding:8px;}
+.componentArea h2, .post-title{font-size:24px;}
+.componentArea p{font-size:14px;margin-top:0;margin-bottom:13px;}
+.bankProductsCategory img{margin-bottom:6px;}
+.bankProductsCategory h6 a{font-size:15px;text-align:center;}
+.site-details{padding-bottom:0;margin:0;}
+.CCBox{margin:0;}
+.CCSelectTab li{width:46%;}
+.CCQuestion .nav-tabs li img{max-width:100%;}
+.radio label{font-size:12px;}
+.btn-yellow-lg{font-size:15px;}
+.button-Area{padding-top:23px;}
+.inlineBox{display:inline-block;}
+}
+@media (max-width:360px){.inlineBox{display:block;}
+}

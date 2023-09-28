@@ -1,0 +1,9 @@
+#lean_overlay{position:fixed;z-index:100;top:0px;left:0px;height:100%;width:100%;background:#000;display:none;}
+.popupContainer{position:absolute;height:600px;left:25%;top:5% !important;overflow-y:scroll
+overflow-x:hidden}
+.popupHeader{background:#c1ddee;padding:10px 20px;}
+.modal_close{cursor:pointer;}
+.popupBody{padding:20px;}
+.modal_close{cursor:pointer;}
+@media screen and (max-width:640px){.popupContainer{position:absolute;left:0px;top:10px;!important;overflow-y:hidden;overflow-x:hidden;width:100%;}
+}
